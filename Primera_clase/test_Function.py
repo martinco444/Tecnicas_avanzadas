@@ -1,5 +1,5 @@
 import pytest
-from Fizz_buzz import fizzbuzz
+from Fizz_Buzz_sinIf import fizzbuzz
 
 def test_fizzbuzz_general():
     assert fizzbuzz(1) == "1"
